@@ -1,0 +1,18 @@
+{
+    "name": "PHPFightClub/inception_project",
+    "type": "project",
+    "authors": [{
+            "name": "Tyler Durden",
+            "email": "tyler@phpfightclub.com"
+        }],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ardulogic/library_inception.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "PHPFightClub/inceptionlib": "~1.0"
+    }
+}
